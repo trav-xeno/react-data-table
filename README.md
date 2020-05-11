@@ -4,4 +4,4 @@ This project displays a simple react app that takes a users input and filters th
 
 <img src="starting.png" alt="starting piont" />
 
-<img src="runningApp.png" alt="example of app filtering and sorting" />
+<img src="runningApp.PNG" alt="example of app filtering and sorting" />
